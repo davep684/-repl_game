@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  header h2{
+    text-align: center;
+    color: aqua;
+    font-size: 50px;
+  }
+  
+  .level{
+    text-align: center;
+    color: aqua;
+    font-size: 40px;
+  }
+
+  nav{
+    background-image: url("../images/images.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-width: 100vw;
+    max-width: 100vw;
+    min-height: 100vh;
+  }
